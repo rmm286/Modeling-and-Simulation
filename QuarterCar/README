@@ -1,0 +1,5 @@
+Files:
+
+Lab_5_sol_m.m: Master file, performs simulation and produces output.
+
+Lab_5_sol_e.m: Script which performs state estimation and passes output to Ode_45
