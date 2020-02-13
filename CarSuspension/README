@@ -1,0 +1,5 @@
+Files: 
+
+Lab_4.m: Master File, calls Lab_4_fxn.m, performs analysis and produces output.
+
+Lab_4_fxn.m: Script that performs state estimation and passes output to ode_45
